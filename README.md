@@ -1,5 +1,5 @@
 # Projeto-UNES-Universidade
-Projeto do curso Desenvolvimento Web Completo 2022 de Jorge Sant Ana e Jamilton Damasceno.
+Primeiro projeto do curso Desenvolvimento Web Completo 2022 de Jorge Sant Ana e Jamilton Damasceno.
 
 A proposta desta atividade visa a criação de um site para a Universidade UNES utilizando apenas HTML.
 Foram utilizadas primordialmente tabelas para a construção do site. 
